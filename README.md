@@ -117,11 +117,8 @@ The robot tracks your hand movements in real-time.
 - **Hand Tracking**: Google MediaPipe
 - **Physics Engine**: MuJoCo by DeepMind
 - **Filtering**: OneEuro Filter ((https://gery.casiez.net/1euro/))
-- **Claude 4.5**: by Anthropic
-   - implement damping least square method to improve Jacobian Inverse method
-   - Code optimization (filters.py and vision_controller.py )
-   - quaternion (but not used in this project)
-   
+
+
 
 
 
